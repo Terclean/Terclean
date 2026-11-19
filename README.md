@@ -23,9 +23,6 @@ My browser-based modular synthesizer and generative music workstation, built wit
 **Wattmap**  
 A platform for exploring solar power generation in Germany on an interactive map.
 
-**[DriverGridGame](https://drivergridgame.com/)**  
-A daily 3×3 Formula 1 trivia game. Fill each square with a driver who matches both clues.
-
 **Blacksite**  
 A top-down multiplayer tactics game with an HTML5 Canvas client and a Go server that runs the match simulation.
 
